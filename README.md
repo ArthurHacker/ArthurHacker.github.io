@@ -8,13 +8,6 @@
 
 <body>
 
-<hl><font size="7" >VELCOME
-
-
-</body>
-
-
-<img src="file:///C:/Users/Artur/Downloads/TorriFiness.png" width="2000">
 
 <table border="4">
 
