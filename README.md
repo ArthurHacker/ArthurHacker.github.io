@@ -31,7 +31,7 @@ ArthurHacker
 <td>GG:
 
 
-<a href="https://shre.su/KPA1"><b>От __FeniX__<b></a>
+<a href="https://shre.su/KPA1"><b>От __FeniX__<b>
 
 
 
