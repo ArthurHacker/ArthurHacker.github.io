@@ -1,4 +1,3 @@
-
 <html>
 
 
@@ -26,7 +25,7 @@ ArthurHacker
 
 <td>Скрипт:
 
-<a href="BS677SCRIPT-ByNoimagePng_TG_zip.lua"><b>6.7.7<b></a>
+<a href="BS677SCRIPT-ByNoimagePng_TG_zip.lua"><b>6.7.7<b>
 
 
 <td>GG:
