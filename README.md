@@ -3,13 +3,8 @@
 
 Автор Arthur Yermoshenko
 
-<head>
-ArthurHacker
-</head>
 
-<center>
 <hl><font size="25" >Arthur Hacker
-</center>
 
 <body>
 
