@@ -5,7 +5,7 @@
 Автор Arthur Yermoshenko
 
 <head>
-<title>ArthurHacker</title>
+ArthurHacker
 </head>
 
 <center>
