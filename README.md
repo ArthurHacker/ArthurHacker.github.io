@@ -91,3 +91,163 @@
 </table>
 </body>
 </html>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+background-color: #000000;
+}
+
+.helloworld {
+text-align: center;
+vertical-align: bottom;
+}
+
+h1 {
+color: #000000;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+margin-top: 2%;
+background-image: url("../img/polosZagol.png");
+width: 1211px;
+}
+
+.hh1 {
+color: #ffffff;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-size: 50px;
+}
+
+h2 {
+color: #ffffff;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+color: #ff0033;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+}
+
+h6 {
+color: #ffffff;
+font-family: 'Roboto', sans-serif;
+}
+
+td {
+text-align: center;
+vertical-align: top;
+}
+
+em {
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
+
+.text {
+font-family: 'Roboto', sans-serif;
+font-size: 26px;
+text-align: justify;
+text-indent: 50px;
+margin-right: 1%;
+}
+
+.shapka {
+background-image: url("../img/shapka.png");
+}
+
+.VnytTable {
+color: #999999;
+margin-top: 5%;
+}
+
+.endTable {
+font-family: 'Roboto', sans-serif;
+border-top: 0.1px solid #666666;
+}
+
+.menu {
+font-family: 'Roboto', sans-serif;
+width: 226px;
+color:#ffffff;
+font-size: 24px;
+text-align: left;
+vertical-align: top;
+border-left: 0.1px solid #666666;
+}
+
+.main {
+font-family: 'Roboto', sans-serif;
+padding-left: 15%;
+background-image: url("../img/menu.png");
+}
+
+.activity {
+font-family: 'Roboto', sans-serif;
+padding-left: 15%;
+font-weight: bold;
+background-image: url("../img/menuAct.png");
+}
+
+.visend {
+font-family: 'Roboto', sans-serif;
+color: #999999;
+text-align: center;
+vertical-align: bottom;
+}
+
+.kanal {
+text-align: center;
+font-size: 20px;
+}
+
+.polosa {
+background-image: url("../img/polosa.png");
+}
+
+a {
+color: #ffffff;
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+}
+
+a:hover {
+color: #666666;
+font-family: 'Roboto', sans-serif;
+text-decoration: none;
+font-weight: bold;
+}
+
+.small {
+color: #ffffff;
+font-family: 'Roboto', sans-serif;
+font-size: 0px;
+}
+
+.emashka {
+font-size: 12px;
+font-family: 'Roboto', sans-serif;
+cursor: pointer;
+color: #666666;
+text-decoration: none;
+font-weight: bold;
+}
+
+.infofordownload {
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.linkhome {
+margin-top: 25px;
+}
+
+.linkds {
+font-family: 'Roboto', sans-serif;
+color: #33ccff;
+}
+
+.linkds:hover {
+font-family: 'Roboto', sans-serif;
+color: #330099;
+}
